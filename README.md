@@ -11,6 +11,10 @@ The project aimed at predicting the price of an Airbnb listing given a number of
 
 ## Project Overview
 
+
+![Screen Shot 2022-11-10 at 4 34 38 PM](https://user-images.githubusercontent.com/68578215/201234869-dd14bc15-7617-4b10-ae90-edadea372144.png)
+
+
 - **Exploratory Data Analysis:** Explore the various features, their distributions using Histograms and Box-plots
 
 - **Pre-processing and Data Cleaning:** Normalisation, filling missing values, encoding categorical values.
