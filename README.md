@@ -24,3 +24,17 @@ The project aimed at predicting the price of an Airbnb listing given a number of
 - **Container:** Using Docker to containerise the Web Application.
 
 - **Production:** Using AWS CI/CD Pipeline for continuous integration and deployment.
+
+## About Dataset
+
+The Dataset used in this project was obtained from public.opendatasoft.com. There are a total of 494,954 records each of which contains details of one Airbnb listing. The total size of dataset is 1.89 GB.
+
+The dataset has a large number of features which can be categorised into following types,
+
+- **Location related:** Country, City, Neighbourhood
+- **Property related:** Property Type, Room Type, Accommodates, Bedrooms, Beds, Bed Type, Cancellation Policy, Minimum Nights
+- **Booking Availability:** Availability 30, Availability 60, Availability 90, Availability 365
+- **Reviews related:** Number of Reviews, Reviews per Month, Review Scores Rating, Review Scores Accuracy, Review Scores Cleanliness, Review Scores Checkin, Review Scores Communication, Review Scores Location, Review Scores Value
+- **Host related:** Host Since, Host Response Time, Host Response Rate, Calculated host listings count, Host Since Days, Host Has Profile Pic, Host Identity Verified, Is Location Exact, Instant Bookable, Host Is Superhost, Require Guest Phone Verification, Require Guest Profile Picture, Requires License
+- Amenities:** TV, Wireless Internet, Kitchen, Heating, Family/kid friendly, Washer, Smoke detector, Fire extinguisher, Essentials, Cable TV, Internet, Dryer, First aid kit, Safety card, Shampoo, Hangers, Laptop friendly workspace, Air conditioning, Breakfast, Free parking on premises, Elevator in building, Buzzer/wireless intercom, Hair dryer, Private living room, Iron, Wheelchair accessible, Hot tub, Carbon monoxide detector, 24-hour check-in, Pets live on this property, Dog(s), Gym, Lock on bedroom door, Private entrance, Indoor fireplace, Smoking allowed, Pets allowed, Cat(s), Self Check-In, Doorman Entry, Suitable for events, Pool, Lockbox, Bathtub, Room-darkening shades, Game console, Doorman, High chair, Pack ’n Play/travel crib, Keypad, Other pet(s), Smartlock
+The price of the listing will serve as labels for the regression task. The goal of this project would be to predict these price of the listings.
