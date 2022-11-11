@@ -1,5 +1,6 @@
 # Predictive-Price-Modeling-
 
+![original](https://user-images.githubusercontent.com/68578215/201235157-2e980b39-c5f7-4a0c-9872-2cc998e6a0dc.jpeg)
 
 The project aimed at predicting the price of an Airbnb listing given a number of features. The project involved exploratory data analysis, data pre-processing, feature selection, Model Fitting, Model Comparison and deploying the containerised Webapp on AWS using CI/CD Pipeline.
 
