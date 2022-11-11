@@ -102,3 +102,10 @@ Entire home is by far the most popular type of listing offered followed by Priva
 #### Beds
 
 ![Screen Shot 2022-11-10 at 4 30 34 PM](https://user-images.githubusercontent.com/68578215/201234560-31c3fd31-7b30-4786-a890-5a4e8b32d830.png)
+
+
+![Screen Shot 2022-11-10 at 4 39 25 PM](https://user-images.githubusercontent.com/68578215/201235424-7d1dac09-8c12-4875-9dfa-e1e57436fe39.png)
+
+## Data pre-processing and cleaning
+
+![Screen Shot 2022-11-10 at 4 39 46 PM](https://user-images.githubusercontent.com/68578215/201235423-919a67b8-09c5-4935-b154-fe4e5c9e919e.png)
