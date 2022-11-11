@@ -60,18 +60,40 @@ Entire home is by far the most popular type of listing offered followed by Priva
 
 #### Number of listings: Country wise
 
+![Screen Shot 2022-11-10 at 4 31 35 PM](https://user-images.githubusercontent.com/68578215/201234545-01645b8c-5159-44ef-b748-c73d7ce37bb4.png)
+
+
 #### Number of listings: City wise (Min 2000)
+
+![Screen Shot 2022-11-10 at 4 31 27 PM](https://user-images.githubusercontent.com/68578215/201234547-465751ea-0d6a-4bd3-b0c7-c84d6056ef53.png)
+
 
 #### Number of listings: Room Type
 
+![Screen Shot 2022-11-10 at 4 31 19 PM](https://user-images.githubusercontent.com/68578215/201234549-776ea866-ac6f-46c9-a389-a70c635064d1.png)
+
+
 #### Boxplot: Listing Price by Room-type
 
+![Screen Shot 2022-11-10 at 4 31 11 PM](https://user-images.githubusercontent.com/68578215/201234551-83381dff-34fe-4e31-98a0-930e8c3616df.png)
+
+
 #### Boxplot: Listing Price by Country
+
+![Screen Shot 2022-11-10 at 4 31 01 PM](https://user-images.githubusercontent.com/68578215/201234553-cb5b8c35-f22c-4e8d-aae8-293def8b28a0.png)
+
 
 
 #### Boxplot: Listing Price by City
 
+![Screen Shot 2022-11-10 at 4 30 53 PM](https://user-images.githubusercontent.com/68578215/201234555-09b5ad0e-61a4-4798-b83b-ce4fe9ec99b6.png)
+
 
 #### Number of people accomodated
 
+![Screen Shot 2022-11-10 at 4 30 42 PM](https://user-images.githubusercontent.com/68578215/201234558-4fefe3d3-9864-4775-85da-121050816df9.png)
+
+
 #### Beds
+
+![Screen Shot 2022-11-10 at 4 30 34 PM](https://user-images.githubusercontent.com/68578215/201234560-31c3fd31-7b30-4786-a890-5a4e8b32d830.png)
