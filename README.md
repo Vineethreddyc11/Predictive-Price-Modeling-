@@ -56,3 +56,22 @@ Airbnb offers three types of listings,
 - **Shared Room**
 
 Entire home is by far the most popular type of listing offered followed by Private Rooms and then a small share of the total listings are shared rooms.
+
+
+#### Number of listings: Country wise
+
+#### Number of listings: City wise (Min 2000)
+
+#### Number of listings: Room Type
+
+#### Boxplot: Listing Price by Room-type
+
+#### Boxplot: Listing Price by Country
+
+
+#### Boxplot: Listing Price by City
+
+
+#### Number of people accomodated
+
+#### Beds
