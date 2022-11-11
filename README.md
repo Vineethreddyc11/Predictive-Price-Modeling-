@@ -44,3 +44,15 @@ The dataset has a large number of features which can be categorised into followi
 - **Amenities:** TV, Wireless Internet, Kitchen, Heating, Family/kid friendly, Washer, Smoke detector, Fire extinguisher, Essentials, Cable TV, Internet, Dryer, First aid kit, Safety card, Shampoo, Hangers, Laptop friendly workspace, Air conditioning, Breakfast, Free parking on premises, Elevator in building, Buzzer/wireless intercom, Hair dryer, Private living room, Iron, Wheelchair accessible, Hot tub, Carbon monoxide detector, 24-hour check-in, Pets live on this property, Dog(s), Gym, Lock on bedroom door, Private entrance, Indoor fireplace, Smoking allowed, Pets allowed, Cat(s), Self Check-In, Doorman Entry, Suitable for events, Pool, Lockbox, Bathtub, Room-darkening shades, Game console, Doorman, High chair, Pack ’n Play/travel crib, Keypad, Other pet(s), Smartlock
 
 The price of the listing will serve as labels for the regression task. The goal of this project would be to predict these price of the listings.
+
+## Exploratory Data Analysis
+
+To get a better insight into where the listings are located, the number of listings in various cities and countries are plotted in the figure below. In the given dataset, United States has the most number of listings followed by European countries and Australia. In terms of cities, Paris, London, New York, Berlin, Los Angeles are some of the cities with most number of listings.
+
+Airbnb offers three types of listings,
+
+- **Entire home/apartment**
+- **Private Room**
+- **Shared Room**
+
+Entire home is by far the most popular type of listing offered followed by Private Rooms and then a small share of the total listings are shared rooms.
